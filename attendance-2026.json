@@ -1,0 +1,391 @@
+{
+  "attendance_0_2026": [
+    {
+      "type": "holiday"
+    },
+    {
+      "type": "present",
+      "time": "09:03"
+    },
+    {
+      "type": "present",
+      "time": "09:01"
+    },
+    {
+      "type": "present",
+      "time": "09:05"
+    },
+    {
+      "type": "present",
+      "time": "09:09"
+    },
+    {
+      "type": "present",
+      "time": "09:02"
+    },
+    {
+      "type": "present",
+      "time": "09:01"
+    },
+    {
+      "type": "leave"
+    },
+    {
+      "type": "present",
+      "time": "08:53"
+    },
+    {
+      "type": "present",
+      "time": "09:09"
+    },
+    {
+      "type": "present",
+      "time": "08:52"
+    },
+    {
+      "type": "present",
+      "time": "09:12"
+    },
+    {
+      "type": "present",
+      "time": "09:00"
+    },
+    {
+      "type": "present",
+      "time": "10:11"
+    },
+    {
+      "type": "present",
+      "time": "08:46"
+    },
+    {
+      "type": "present",
+      "time": "08:57"
+    },
+    {
+      "type": "present",
+      "time": "09:19"
+    },
+    {
+      "type": "holiday"
+    },
+    {
+      "type": "present",
+      "time": "09:00"
+    },
+    {
+      "type": "present",
+      "time": "08:59"
+    },
+    {
+      "type": "present",
+      "time": "09:09"
+    },
+    {
+      "type": "present",
+      "time": "09:01"
+    }
+  ],
+  "attendance_1_2026": [
+    {
+      "type": "present",
+      "time": "09:06"
+    },
+    {
+      "type": "present",
+      "time": "09:03"
+    },
+    {
+      "type": "present",
+      "time": "09:54"
+    },
+    {
+      "type": "present",
+      "time": "09:17"
+    },
+    {
+      "type": "present",
+      "time": "09:01"
+    },
+    {
+      "type": "present",
+      "time": "09:00"
+    },
+    {
+      "type": "present",
+      "time": "09:06"
+    },
+    {
+      "type": "present",
+      "time": "09:53"
+    },
+    {
+      "type": "present",
+      "time": "09:15"
+    },
+    {
+      "type": "present",
+      "time": "09:10"
+    },
+    {
+      "type": "half",
+      "time": "04:11"
+    },
+    {
+      "type": "present",
+      "time": "09:05"
+    },
+    {
+      "type": "present",
+      "time": "09:21"
+    },
+    {
+      "type": "present",
+      "time": "09:03"
+    },
+    {
+      "type": "present",
+      "time": "08:51"
+    },
+    {
+      "type": "present",
+      "time": "09:11"
+    },
+    {
+      "type": "present",
+      "time": "09:23"
+    },
+    {
+      "type": "present",
+      "time": "09:58"
+    },
+    {
+      "type": "present",
+      "time": "09:12"
+    },
+    {
+      "type": "leave"
+    }
+  ],
+  "attendance_2_2026": [
+    {
+      "type": "present",
+      "time": "08:43"
+    },
+    {
+      "type": "present",
+      "time": "09:02"
+    },
+    {
+      "type": "present",
+      "time": "10:14"
+    },
+    {
+      "type": "present",
+      "time": "09:04"
+    },
+    {
+      "type": "present",
+      "time": "08:34"
+    },
+    {
+      "type": "leave"
+    },
+    {
+      "type": "present",
+      "time": "09:24"
+    },
+    {
+      "type": "present",
+      "time": "09:31"
+    },
+    {
+      "type": "present",
+      "time": "09:28"
+    },
+    {
+      "type": "present",
+      "time": "08:34"
+    },
+    {
+      "type": "present",
+      "time": "11:18"
+    },
+    {
+      "type": "present",
+      "time": "09:38"
+    },
+    {
+      "type": "present",
+      "time": "08:54"
+    },
+    {
+      "type": "present",
+      "time": "09:06"
+    },
+    {
+      "type": "holiday"
+    },
+    {
+      "type": "leave"
+    },
+    {
+      "type": "present",
+      "time": "09:09"
+    },
+    {
+      "type": "present",
+      "time": "09:27"
+    },
+    {
+      "type": "present",
+      "time": "09:36"
+    },
+    {
+      "type": "present",
+      "time": "05:43"
+    },
+    {
+      "type": "present",
+      "time": "09:28"
+    },
+    {
+      "type": "present",
+      "time": "09:20"
+    },
+    {
+      "type": "present",
+      "time": "08:49"
+    }
+  ],
+  "attendance_4_2026": [
+    {
+      "type": "holiday"
+    },
+    {
+      "type": "present",
+      "time": "08:53"
+    },
+    {
+      "type": "present",
+      "time": "08:51"
+    },
+    {
+      "type": "leave"
+    },
+    {
+      "type": "present",
+      "time": "09:39"
+    },
+    {
+      "type": "present",
+      "time": "09:02"
+    },
+    {
+      "type": "present",
+      "time": "09:03"
+    },
+    {
+      "type": "present",
+      "time": "09:07"
+    },
+    {
+      "type": "present",
+      "time": "09:08"
+    },
+    {
+      "type": "present",
+      "time": "09:06"
+    },
+    {
+      "type": "present",
+      "time": "09:07"
+    }
+  ],
+  "attendance_3_2026": [
+    {
+      "type": "present",
+      "time": "08:49"
+    },
+    {
+      "type": "holiday"
+    },
+    {
+      "type": "holiday"
+    },
+    {
+      "type": "present",
+      "time": "08:48"
+    },
+    {
+      "type": "present",
+      "time": "09:46"
+    },
+    {
+      "type": "present",
+      "time": "10:16"
+    },
+    {
+      "type": "leave"
+    },
+    {
+      "type": "present",
+      "time": "10:00"
+    },
+    {
+      "type": "present",
+      "time": "09:59"
+    },
+    {
+      "type": "present",
+      "time": "10:07"
+    },
+    {
+      "type": "leave"
+    },
+    {
+      "type": "present",
+      "time": "09:24"
+    },
+    {
+      "type": "present",
+      "time": "09:37"
+    },
+    {
+      "type": "present",
+      "time": "08:52"
+    },
+    {
+      "type": "present",
+      "time": "09:23"
+    },
+    {
+      "type": "present",
+      "time": "08:24"
+    },
+    {
+      "type": "present",
+      "time": "08:45"
+    },
+    {
+      "type": "present",
+      "time": "08:30"
+    },
+    {
+      "type": "present",
+      "time": "08:35"
+    },
+    {
+      "type": "present",
+      "time": "09:57"
+    },
+    {
+      "type": "present",
+      "time": "09:34"
+    },
+    {
+      "type": "present",
+      "time": "09:02"
+    }
+  ]
+}
